@@ -1,2 +1,14 @@
 # score-hupu-hub
-HTML page archive and documentation
+
+静态内容发布记录
+
+这个仓库用于保存自动发布的独立 HTML 页面。
+
+## 内容结构
+
+- 根目录：HTML 页面文件
+- README：用途与维护说明
+
+## 存档说明
+
+页面文件会持续归档，后续内容以实际发布结果为准。
